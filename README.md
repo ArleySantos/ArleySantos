@@ -1,9 +1,9 @@
-### Olá,me chamo Arley dos Santos
+### Olá, me chamo Arley dos Santos
 
 
 - 🔭 Estudando desenvolvimento Front-end
 - 🤔 Estudando JavaScript
-- 💬 Tenho 20 anos, estudo a pouco mais de um ano
+- 💬 Tenho 20 anos, descobri a programação pouco menos de dois anos
 
 
 
